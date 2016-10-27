@@ -1,0 +1,117 @@
+13:721  0:754  Found BIOS RSDP at FE020
+13:721  0:000  Printing ACPI tables from RSDP FE020 ...
+13:721  0:000   FE020: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+13:721  0:000    (Xsdt: BAFFE210, Rsdt: BAFFE124)
+13:721  0:000    BAFFE210: 'XSDT', 'CB-01   ', Rev: 1, Len: 164
+13:721  0:000    BAFFE124: 'RSDT', 'CB-01   ', Rev: 1, Len: 100
+13:721  0:000    Tables in Xsdt: 16
+13:721  0:000    0. BAFFA000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+13:721  0:000        (Dsdt: BAFEC000, Facs: BAFBB000, XDsdt: BAFEC000, XFacs: 0)
+13:721  0:000        BAFEC000: 'DSDT', 'CB-01   ', Rev: 1, Len: 41071
+13:722  0:000        BAFBB000: 'FACS', Ver: 2, Len: 64
+13:722  0:000    1. BAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+13:722  0:000    2. BAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+13:722  0:000    3. BAFFB000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+13:722  0:000    4. BAFF9000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+13:722  0:000    5. BAFF8000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+13:722  0:000    6. BAFF7000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+13:722  0:000    7. BAFEB000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1790
+13:722  0:000    8. BAFE9000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+13:722  0:000    9. BAFE7000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+13:722  0:000    10. BAFE6000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+13:722  0:000    11. BAFE4000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+13:722  0:000    12. BAFE2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2276
+13:722  0:000    13. BAFE1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2850
+13:722  0:000    14. BAFDE000: 'SSDT', 'CB-01   ', Rev: 1, Len: 7917
+13:722  0:000    15. BAFE0000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+13:722  0:000    Tables in Rsdt: 16
+13:722  0:000    0. BAFFA000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+13:722  0:000        (Dsdt: BAFEC000, Facs: BAFBB000, XDsdt: BAFEC000, XFacs: 0)
+13:722  0:000        BAFEC000: 'DSDT', 'CB-01   ', Rev: 1, Len: 41071
+13:723  0:000        BAFBB000: 'FACS', Ver: 2, Len: 64
+13:723  0:000    1. BAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+13:723  0:000    2. BAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+13:723  0:000    3. BAFFB000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+13:723  0:000    4. BAFF9000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+13:723  0:000    5. BAFF8000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+13:723  0:000    6. BAFF7000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+13:723  0:000    7. BAFEB000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1790
+13:723  0:000    8. BAFE9000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+13:723  0:000    9. BAFE7000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+13:723  0:000    10. BAFE6000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+13:723  0:000    11. BAFE4000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+13:723  0:000    12. BAFE2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2276
+13:723  0:000    13. BAFE1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2850
+13:723  0:000    14. BAFDE000: 'SSDT', 'CB-01   ', Rev: 1, Len: 7917
+13:723  0:000    15. BAFE0000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+13:723  0:000  Found UEFI Acpi 2.0 RSDP at BAFFE014
+13:723  0:000  Saving ACPI tables from RSDP BAFFE014 to EFI\CLOVER\ACPI\origin ...
+13:723  0:000   BAFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+13:723  0:000    (Xsdt: BAFFE210, Rsdt: BAFFE124)
+13:723  0:000    BAFFE210: 'XSDT', 'CB-01   ', Rev: 1, Len: 164
+13:723  0:000    BAFFE124: 'RSDT', 'CB-01   ', Rev: 1, Len: 100
+13:723  0:000    Tables in Xsdt: 16
+13:723  0:000    0. BAFFA000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+13:723  0:000        (Dsdt: BAFEC000, Facs: BAFBB000, XDsdt: BAFEC000, XFacs: 0)
+13:723  0:000        BAFEC000: 'DSDT', 'CB-01   ', Rev: 1, Len: 41071
+13:724  0:000        BAFBB000: 'FACS', Ver: 2, Len: 64
+13:724  0:000    1. BAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+13:724  0:000    2. BAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+13:724  0:000    3. BAFFB000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+13:724  0:000    4. BAFF9000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+13:724  0:000    5. BAFF8000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+13:724  0:000    6. BAFF7000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+13:724  0:000    7. BAFEB000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1790
+13:724  0:000    8. BAFE9000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+13:724  0:000    9. BAFE7000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+13:724  0:000    10. BAFE6000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+13:724  0:000    11. BAFE4000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+13:724  0:000    12. BAFE2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2276
+13:724  0:000    13. BAFE1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2850
+13:724  0:000    14. BAFDE000: 'SSDT', 'CB-01   ', Rev: 1, Len: 7917
+13:724  0:000    15. BAFE0000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+13:724  0:000    Tables in Rsdt: 16
+13:724  0:000    0. BAFFA000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+13:724  0:000        (Dsdt: BAFEC000, Facs: BAFBB000, XDsdt: BAFEC000, XFacs: 0)
+13:724  0:000        BAFEC000: 'DSDT', 'CB-01   ', Rev: 1, Len: 41071
+13:725  0:000        BAFBB000: 'FACS', Ver: 2, Len: 64
+13:725  0:000    1. BAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+13:725  0:000    2. BAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+13:725  0:000    3. BAFFB000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+13:725  0:000    4. BAFF9000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+13:725  0:000    5. BAFF8000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+13:725  0:000    6. BAFF7000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+13:725  0:000    7. BAFEB000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1790
+13:725  0:000    8. BAFE9000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+13:725  0:000    9. BAFE7000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+13:725  0:000    10. BAFE6000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+13:725  0:000    11. BAFE4000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+13:725  0:000    12. BAFE2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2276
+13:725  0:000    13. BAFE1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2850
+13:725  0:000    14. BAFDE000: 'SSDT', 'CB-01   ', Rev: 1, Len: 7917
+13:725  0:000    15. BAFE0000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+13:725  0:000  Found UEFI Acpi 1.0 RSDP at BAFFE000
+13:725  0:000  Printing ACPI tables from RSDP BAFFE000 ...
+13:725  0:000   BAFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+13:725  0:000    (Rsdt: BAFFE038)
+13:725  0:000    BAFFE038: 'RSDT', 'CB-01   ', Rev: 1, Len: 100
+13:725  0:000    Tables in Rsdt: 16
+13:725  0:000    0. BAFFA000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+13:725  0:000        (Dsdt: BAFEC000, Facs: BAFBB000, XDsdt: BAFEC000, XFacs: 0)
+13:725  0:000        BAFEC000: 'DSDT', 'CB-01   ', Rev: 1, Len: 41071
+13:726  0:000        BAFBB000: 'FACS', Ver: 2, Len: 64
+13:726  0:000    1. BAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+13:726  0:000    2. BAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+13:726  0:000    3. BAFFB000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+13:726  0:000    4. BAFF9000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+13:726  0:000    5. BAFF8000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+13:726  0:000    6. BAFF7000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+13:726  0:000    7. BAFEB000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1790
+13:726  0:000    8. BAFE9000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+13:726  0:000    9. BAFE7000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+13:726  0:000    10. BAFE6000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+13:726  0:000    11. BAFE4000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+13:726  0:000    12. BAFE2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2276
+13:726  0:000    13. BAFE1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2850
+13:726  0:000    14. BAFDE000: 'SSDT', 'CB-01   ', Rev: 1, Len: 7917
+13:726  0:000    15. BAFE0000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
